@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [aakarshtiwari.com](aakarshtiwari.com)
+- 👨‍💻 All of my projects are available at [https://www.aakarshtiwari.com/](https://www.aakarshtiwari.com/)
 
 - 💬 Ask me about **Node.js, React.js**
 
